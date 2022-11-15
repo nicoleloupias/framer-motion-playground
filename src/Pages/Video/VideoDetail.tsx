@@ -2,7 +2,7 @@ import React from "react";
 import ReactPlayer from "react-player";
 
 export const VideoDetail = () => {
-  console.log("video");
+  console.log("video2");
 
   return (
     <ReactPlayer
